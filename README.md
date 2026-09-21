@@ -9,7 +9,7 @@ Single self-contained `index.html` — no build step, no dependencies.
 
 ## Sections
 
-- **Projects** — residual-agent-harness, adversarial-clothing-pipeline, techops-hero, theemrld-portfolio, help-desk-hero
+- **Projects** — residual-agent-harness, adversarial-clothing-pipeline, techops-hero, theemrld-portfolio
 - **Skills** — offensive/defensive security, CCNA networking (Cisco), engineering, proficiency bars
 - **Music** — raikouno tracks (SoundCloud)
 - **Contact** — GitHub / SoundCloud / TryHackMe / research portfolio
