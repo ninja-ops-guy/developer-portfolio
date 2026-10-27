@@ -1,5 +1,9 @@
 # developer-portfolio
 
+> **Deprecated** — this CRT-terminal portfolio is superseded by **[theemrld-portfolio](https://github.com/ninja-ops-guy/theemrld-portfolio)** ([live site](https://ninja-ops-guy.github.io/theemrld-portfolio/)). This repo is kept for archive only and is no longer updated.
+
+---
+
 CRT terminal-style developer portfolio — phosphor green on black, boot sequence,
 typewriter hero with leetspeak glitch, HUD status bar, scanlines/vignette/flicker.
 
