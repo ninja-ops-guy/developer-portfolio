@@ -15,7 +15,7 @@ Single self-contained `index.html` — no build step, no dependencies.
 
 - **Projects** — residual-agent-harness, adversarial-clothing-pipeline, techops-hero, theemrld-portfolio
 - **Skills** — offensive/defensive security, CCNA networking (Cisco), engineering, proficiency bars
-- **Music** — raikouno tracks (SoundCloud)
+- **Music** — K Terminal launcher for raikouno and shared-universe music
 - **Contact** — GitHub / SoundCloud / TryHackMe / research portfolio
 
 ## Run
